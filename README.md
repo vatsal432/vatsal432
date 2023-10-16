@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatsal Kachhadiya</h1>
-<h3 align="center">Frontend Developer Intern</h3>
-
+<h3 align="center">I Am Frontend Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3hN0Av1I3r4ufAwgErKQwK&ust=1697536845382000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiG7NWn-oEDFQAAAAAdAAAAABAU"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal432&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal432" /> </p>
 
 - 🌱 I’m currently learning **Frontend Developing**
