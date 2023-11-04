@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vatsal Kachhadiya</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=35&pause=500&center=true&random=false&width=435&lines=Hey!!+%F0%9F%91%8B;I'm+Vatsal+Kachhadiya" alt="Typing SVG" /></a></h1>
 <h3 align="center">I Am Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal432&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal432" /> </p>
